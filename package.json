@@ -1,6 +1,6 @@
 {
   "name": "@anhdhbn/hexo-filter-mermaid-diagrams",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "mermaid diagrams for hexo",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webappdevelp/hexo-filter-mermaid-diagrams.git"
+    "url": "git+https://github.com/anhdhbn/hexo-filter-mermaid-diagrams"
   },
   "keywords": [
     "hexo-filter-mermaid-diagrams",
@@ -16,12 +16,12 @@
     "hexo-filter",
     "mermaid"
   ],
-  "author": "https://webappdevelp.github.io",
+  "author": "https://anhdh.me",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webappdevelp/hexo-filter-mermaid-diagrams/issues"
+    "url": "https://github.com/anhdhbn/hexo-filter-mermaid-diagrams"
   },
-  "homepage": "https://github.com/webappdevelp/hexo-filter-mermaid-diagrams#readme",
+  "homepage": "https://github.com/anhdhbn/hexo-filter-mermaid-diagrams#readme",
   "dependencies": {
     "deep-assign": "^2.0.0"
   },
